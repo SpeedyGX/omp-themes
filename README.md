@@ -1,4 +1,4 @@
 # Oh my posh themes
 ## Screenshot
 ### Cyberware
-(/cyberware.png)
+[Cyberware](/cyberware.png)
